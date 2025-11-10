@@ -1,4 +1,4 @@
-# YouTube-like Commenting API (CodeTrack)
+# YouTube-like Commenting API
 
 A small Express.js demo project that implements a YouTube-style comment API for videos. It's intentionally minimal and uses an in-memory `model/db.js` to store a sample user, subscriptions, and videos (with comments). The goal is educational: to show how routes, controllers, and middleware interact in a simple REST API.
 
